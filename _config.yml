@@ -1,5 +1,7 @@
-title: This is my title
-date: 2018-12-13 
+---
+title: "This is my title"
+date: 2018-12-13
+---
 author: Yunus Jiruwala
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
